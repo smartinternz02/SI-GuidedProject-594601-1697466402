@@ -9,4 +9,4 @@ This is a collaborative project in which we are supposed to use various classifi
 
 [EmpathyMap](https://app.mural.co/t/scamfinder8675/m/scamfinder8675/1697463394059/632849d9033106511c0025dadd77942a2bb85650?invited=true&sender=u8a90cc56234e246f33bc7567)
 
-[BrainStroming]()
+[BrainStroming](https://app.mural.co/t/scamfinder8675/m/scamfinder8675/1697626699598/e571e4f2e11716f4a87fe4eb1bde7b7195bbb2f8?sender=u8a90cc56234e246f33bc7567)
