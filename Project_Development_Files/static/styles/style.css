@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.paragraph{
+    width: 70%;
+    margin: auto;
+    font-size: 1rem;
+    margin-top: 3%;
+
+}
+label{
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+form{
+    width: 50%;
+    margin: auto;
+    margin-top:10%;
+}
+
+.size{
+    font-size: 28px;
+}
+h1{
+    text-align: center;
+    display:block;
+    width: 50%;
+    margin: auto;
+}
