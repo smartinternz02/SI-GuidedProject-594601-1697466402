@@ -7,7 +7,7 @@ import pandas as pd
 model=pickle.load(open("/home/exterminator/train/Smart_internz_project/model_dc.pkl",'rb'))
 app=Flask(__name__)
 
-dict_val= {'PAYMENT':0, 'TRANSFER':1 ,'CASH_OUT':2 ,'DEBIT':3 ,'CASH_IN':4}
+dict_val= {'PAYMENT':0, 'TRANSFER':1 ,'CASH OUT':2 ,'DEBIT':3 ,'CASH_IN':4}
 @app.route("/")
 def start():
     return render_template('index.html')

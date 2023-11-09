@@ -10,6 +10,10 @@ This is a collaborative project in which we are supposed to use various classifi
 
 [BrainStroming](https://app.mural.co/t/scamfinder8675/m/scamfinder8675/1697626699598/e571e4f2e11716f4a87fe4eb1bde7b7195bbb2f8?sender=u8a90cc56234e246f33bc7567)
 
+[DataSet Link](https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset/data)
+
+[Demo Video Link](https://youtu.be/piSaZpsNjAc?si=41YaGcLIwOnOAUkm)
+
 ### PHASE II-Project Design Phase(Start-19th October End-23rd October)
 
 ### Phase III-Project Planning Phase(Start- 24th October 26th October)
